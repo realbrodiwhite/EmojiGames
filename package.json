@@ -52,7 +52,7 @@
     "framer-motion": "*",
     "input-otp": "1.4.2",
     "lucide-react": "^0.454.0",
-    "next": "15.1.6",
+    "next": "15.5.24",
     "next-themes": "^0.4.4",
     "prisma": "*",
     "react": "^19",
